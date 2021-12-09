@@ -1,0 +1,44 @@
+
+1.	Print function in python 
+
+The print() function prints the specified message to the screen, or other standard output device. The message can be a string, or any other object, the object will be converted into a string before written to the screen.
+
+Print(“this is deepika”)
+Print(a+b)
+Print(“this is deepika”\n “How are you”)
+
+
+2. What is type () in Python give an example?
+Python has a built-in function called type() that helps you find the class type of the variable given as input. For example, if the input is a string, you will get the output as <class 'str'>, for the list, it will be <class 'list'>, etc.
+
+Ex -   a=10
+         Print(type(a))
+
+         b=”deepika”
+         print(type(b))
+
+3. What is the length function in Python?
+len() is a built-in function in python. You can use the len() to get the length of the given string, array, list, tuple, dictionary, etc. You can use len function to optimize the performance of the program. The number of elements stored in the object is never calculated, so len helps provide the number of elements.
+
+a=”apple”
+print (len(a))
+
+
+4.What is  input unction 
+
+The input() function allows a user to insert a value into a program. 
+The input() function helps to enter data at run time by the user and the output function print() is used to display the result of the program on the screen after execution.
+Ex :  a= input(“enter a name”)
+Print(a)
+
+
+
+5.  how to do comments  in python 
+
+For single line -   #
+For multiple line   -  “””       “””  -  thriple quotes
+Ex - #this is deepika
+Ex – “”” this is deepika
+         Learning python 
+         To get success “””
+
